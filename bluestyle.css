@@ -1,4 +1,8 @@
 body {
+	background-image: url(https://i1.sndcdn.com/avatars-000232685298-6zga7r-t500x500.jpg);
+}
+
+.menu {
   width: 80%;
   background-color: aquamarine;
   margin-left: auto;
